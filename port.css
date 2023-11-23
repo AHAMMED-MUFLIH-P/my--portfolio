@@ -45,7 +45,8 @@
 
 }
 .link:hover{
-    color: red;
+/*     color: red; */
+    color:blue;
     font-size: 40px;
 }
 .title{
